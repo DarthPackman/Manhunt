@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248233538287",
+    "project_id": "manhunt-f9f08",
+    "storage_bucket": "manhunt-f9f08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248233538287:android:f0842d4d7d36189ecba11a",
+        "android_client_info": {
+          "package_name": "works.darthpackman.comp3160.manhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248233538287-4uvmkmhfrhg4aman9hv6snk6loti37vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG-2WfGQIzyD6vQ1yqDWk45utsvY1zbKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248233538287-4uvmkmhfrhg4aman9hv6snk6loti37vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

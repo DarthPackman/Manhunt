@@ -1,0 +1,94 @@
+{
+  "lobbies": {
+    "0": {
+      "gamestate": 0,
+      "huntercount": 0,
+      "hunterlimit": 0,
+      "name": "ThisDataBaseRunsOffOfDuctTape",
+      "players": {
+        "0": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "1": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "",
+          "tag": 0
+        },
+        "2": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "",
+          "tag": 0
+        },
+        "3": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "4": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "5": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "6": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "7": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "8": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "9": {
+          "host": 0,
+          "hunter": 0,
+          "lat": 0,
+          "long": 0,
+          "name": "\"\"",
+          "tag": 0
+        },
+        "count": 0
+      }
+    },
+    "count": 0
+  }
+}

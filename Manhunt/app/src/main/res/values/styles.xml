@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Layout">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="InnerLayout">
+        <item name="android:layout_margin">32dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="Buttons" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">#74796B</item>
+        <item name="android:background">@drawable/button</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="backgroundTint">@color/white</item>
+    </style>
+    <style name="Title">
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#74796B</item>
+        <item name="android:textSize">60sp</item>
+    </style>
+    <style name="SubTitle">
+        <item name="android:textAlignment">center</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#74796B</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+    <style name="InputText">
+        <item name="android:textColor">#74796B</item>
+    </style>
+</resources>

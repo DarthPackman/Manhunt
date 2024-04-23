@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MANHUNT</string>
+    <string name="host">HOST</string>
+    <string name="join">JOIN</string>
+    <string name="lobby_name">LOBBY NAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="player_name">PLAYER NAME</string>
+    <string name="start">START</string>
+    <string name="hunter">HUNTER</string>
+    <string name="hunted">HUNTED</string>
+    <string name="tag">TAG</string>
+    <string name="results">VICTORY</string>
+    <string name="rematch">REMATCH</string>
+    <string name="main_menu">MAIN MENU</string>
+    <string name="hunter_instructions">STAY WHERE YOU ARE</string>
+    <string name="hunted_instructions">RUN AND HIDE</string>
+</resources>
